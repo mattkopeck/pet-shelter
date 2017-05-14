@@ -10,7 +10,7 @@ Examples of the API:
 
 ```sh
 https://morning-ravine-49292.herokuapp.com/api/v1/pets/index
-https://morning-ravine-49292.herokuapp.com/api/v1/pets/index
+https://morning-ravine-49292.herokuapp.com/api/v1/pets/5918920ddab5ae0004e3b1c3
 ```
 
 ## Running Locally
